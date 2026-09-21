@@ -1,0 +1,6 @@
+{
+  "name": "GATE CSE Preparation Roadmap & Excel Tracker",
+  "description": "Comprehensive GATE CSE syllabus roadmap, PYQ weightage, topic hierarchy, study schedules, formula cheat sheets, and Excel tracker workbook generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
